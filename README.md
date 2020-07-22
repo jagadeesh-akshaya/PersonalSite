@@ -1,2 +1,2 @@
 # PersonalSite
-www.iamakshaya.com
+Personal site is www.iamakshaya.com
